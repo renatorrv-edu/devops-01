@@ -4,4 +4,4 @@
 def suma(a: int, b: int) -> int:
     """Comentario."""
     # x = "no se usa"
-    return a + b
+    return int(a) + int(b)
