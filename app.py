@@ -2,6 +2,6 @@
 
 
 def suma(a: int, b: int) -> int:
-    """Comentario"""
+    """Comentario."""
     # x = "no se usa"
     return a + b
